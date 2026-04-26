@@ -58,4 +58,4 @@ Previously studied Mechanical Engineering at KTH *(2022–2024)*
 
 ---
 
-📫 **Reach me at:** emiliameta@gmail.com
+**Reach me at:** emiliameta@gmail.com
