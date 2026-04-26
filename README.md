@@ -17,7 +17,7 @@ I'm a civil engineering student in **Information Technology at KTH Royal Institu
 
 ## Featured Project
 
-### [StudyBuddy — Visual Study Planner](https://github.com/EmiliaMeta/StudyBuddy)
+### [StudyBuddy: Visual Study Planner](https://github.com/EmiliaMeta/StudyBuddy)
 > A desktop application built with Python and PyQt6 to help KTH students plan and track their degree.
 
 - Drag-and-drop course planning grid across years and periods
