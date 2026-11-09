@@ -43,10 +43,10 @@ I'm a civil engineering student in **Information Technology at KTH Royal Institu
 
 ## Experience
 
-- **Math Tutor** — Yepstr & Allakando, Stockholm *(2018–ongoing)*
-- **Intern** — SAAB, Stockholm *(2019)*
-- **Intern** — Courtage d'Assurance 63, Clermont-Ferrand, France *(2022)*
-- **Intern** — Ericsson, Stockholm *(2026)*
+- **Math Tutor**: Yepstr & Allakando, Stockholm *(2018–ongoing)*
+- **Intern**: SAAB, Stockholm *(2019)*
+- **Intern**: Courtage d'Assurance 63, Clermont-Ferrand, France *(2022)*
+- **Intern**: Ericsson, Stockholm *(2026)*
 
 ---
 
